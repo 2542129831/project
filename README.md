@@ -1,1 +1,1 @@
-＃GO作业
+＃Go_homework
